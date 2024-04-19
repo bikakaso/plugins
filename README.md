@@ -1,0 +1,1 @@
+alfred、PopClip的常用插件，以及mac上常用的软件
